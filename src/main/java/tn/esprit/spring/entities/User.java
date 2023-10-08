@@ -36,6 +36,7 @@ public class User implements Serializable {
 	Role role; 
 	
 	public User() {	}
+//test
 
 	public User(String firstName, String lastName, Date dateNaissance, Role role) {
 		super();
