@@ -37,6 +37,7 @@ public class User implements Serializable {
 	
 	public User() {	}
 //test
+//test2
 
 	public User(String firstName, String lastName, Date dateNaissance, Role role) {
 		super();
